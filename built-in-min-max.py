@@ -1,4 +1,4 @@
-"""" Project 3 Ramon Torres"""
+# Project 3 Ramon Torres"""
 DEF maximum(value1, value 2, value3)
 """return the maximum of three values. ""
 max_value = value1
